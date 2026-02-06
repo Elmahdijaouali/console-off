@@ -1,6 +1,6 @@
 {
   "name": "console-off",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Disable console methods in production for any JavaScript/TypeScript project",
   "type": "module",
   "main": "./dist/index.cjs",

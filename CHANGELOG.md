@@ -2,6 +2,11 @@
 
 All notable changes to the `console-off` package will be documented in this file.
 
+## [1.0.1] - 2026-02-06
+
+### Fixed
+- Fixed repository URL format in package.json
+
 ## [1.0.0] - 2026-02-06
 
 ### Added

@@ -1,8 +1,8 @@
-# Console Off 🚫
+# Console Off 
 
-[\![npm](https://img.shields.io/npm/v/console-off.svg)](https://www.npmjs.com/package/console-off)
-[\![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[\![GitHub stars](https://img.shields.io/github/stars/Elmahdijaouali/console-off.svg?style=social)](https://github.com/Elmahdijaouali/console-off/stargazers)
+[![npm](https://img.shields.io/npm/v/console-off.svg)](https://www.npmjs.com/package/console-off)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Elmahdijaouali/console-off.svg?style=social)](https://github.com/Elmahdijaouali/console-off/stargazers)
 
 A lightweight utility to disable `console` methods in production environments for cleaner and more secure applications. Works seamlessly with all major JavaScript frameworks including React, Next.js, Vue, Angular, and Node.js.
 
