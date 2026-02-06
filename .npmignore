@@ -1,0 +1,37 @@
+# Source files (included in dist/)
+src/
+
+# Tests
+test/
+
+# Config files
+tsconfig.json
+tsconfig.test.json
+.gitignore
+rollup.config.js
+
+# Development files
+.vscode/
+.idea/
+*.log
+
+# Git
+.git/
+.gitattributes
+
+# CI
+.github/
+
+# Build files
+node_modules/
+*.tsbuildinfo
+
+# Test files
+coverage/
+*.test.*
+
+# Lock files
+pnpm-lock.yaml
+
+# Example files
+examples/
