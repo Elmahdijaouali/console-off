@@ -45,7 +45,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 1. Fork the repository on GitHub.
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/your-username/console-off.git
+   git clone [https://github.com/Elmahdijaouali/console-off.git]
    cd console-off
    ```
 3. Create a new branch for your changes:
